@@ -4,7 +4,7 @@ An end-to-end data project that recommends a Class 11 stream (Science, Commerce 
 
 It extends an earlier school project (a menu-driven subject selection program built in Python and MySQL) into a full workflow covering data cleaning, SQL analysis, visualisation, machine learning and a web dashboard.
 
-**Live demo:** _add your Streamlit link here_
+**Live demo:** [https://subject-recommendation-analytics.streamlit.app]
 
 > **Note on data:** all data in this project is **synthetic**. It was generated with a Python script using fixed rules plus random noise. Model accuracy therefore reflects how well the model recovers those rules, not real-world performance.
 
